@@ -1,4 +1,3 @@
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Dilshodbek0720&show_icons=true&theme=dark)
 
 <a href="https://github.com/Dilshodbek0720"><img src="contributors.svg"></a>
